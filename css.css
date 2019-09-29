@@ -1,0 +1,74 @@
+body {
+    background: rgb(255, 249, 249);
+    box-sizing: border-box;
+ }
+ .cont {
+    width: 50%;
+    margin: 150px auto;
+ }
+ img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 8%;
+    padding:5px;
+    background: white;
+    display: block;
+    margin: 0px auto;
+    width: 50px;
+ }
+ h4 {
+    text-align: center;
+ }
+ .mas{
+    color: red;
+    font-size: 12px;
+ }
+ .InPut {
+    width: 100%;
+    display: block;
+    margin: 0px auto -10px auto;
+    padding: 5px 80px 5px 0px;
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: rgb(255, 249, 249);
+ }
+ input:focus {
+    outline : none;
+ }
+ .Sign {
+    width: 100%;
+    display: block;
+    margin: 15px auto;
+    border: 1px solid rgb(71, 71, 223);
+    padding : 5px 100px;
+    background-color: rgb(71, 71, 223);
+    color: white;
+ }
+ .PP {
+    width: 100%;
+    text-align: center;
+    font-size:12px;
+    margin-top: 20px;
+    color: gray;
+ }
+ a{
+    text-decoration: none;
+ }
+ .first{
+    width: 50%;
+    margin: 15px auto;
+ }
+ .end{
+    color: gray;
+    text-align: center;
+    font-size:12px;
+    margin-top: 20px;
+ }
+ .second{
+    margin-top: 60px;
+ }
+ .footer{
+    text-align: center;
+    font-size:12px;
+    margin-top: 10px;
+    color: gray;
+ }
