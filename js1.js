@@ -1,4 +1,5 @@
 // function for Name
+//////tamer
 function isEmpty(name) {
     return name === "";
  }
